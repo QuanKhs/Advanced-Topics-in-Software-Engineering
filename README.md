@@ -1,0 +1,18 @@
+# Advanced-Topics-in-Software-Engineering
+## The course belongs to specialized knowledge in HCMUS
+> Lecture: Nguyễn Văn Vũ , email: nvu@fit.hcmus.edu.vn ,phone: 0908175957
+> Topics
+** Software process
+**Software estimation
+**SOA and microservices
+**Test automation
+**Continuous Integration , Continuous Delivery (Devops, CD/CI)
+> Course Rules : 
+**If the deadline is delayed no more than 3 days: -15%
+**Score: 5 exercise: dev ops, CI/CD, docker,....
+    Classes exercise: 15% 
+    Deadline 4 ep: 30%-teamwork
+    Report: 20% teamwork: machine learning
+    Final:  35% writing test in 90m, open book
+    Bonus: 10%
+
