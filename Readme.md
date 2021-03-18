@@ -2,7 +2,7 @@
 
 ## The course belongs to specialized knowledge in HCMUS
 
-### **Lecture**: Nguyễn Văn Vũ , email: nvu@fit.hcmus.edu.vn, phone: 0908175957
+### **Lecturer**: Nguyễn Văn Vũ , email: nvu@fit.hcmus.edu.vn
 
 ### **Topics:**
 
