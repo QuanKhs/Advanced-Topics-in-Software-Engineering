@@ -20,9 +20,9 @@
 
 1. If the deadline is delayed no more than 3 days: -15%
 
-2. Score: 5 exercise: dev ops, CI/CD, docker,....
+2. Scores: 5 exercises: dev ops, CI/CD, docker,....
     * Classes exercise: 15% 
-    * Deadline 4 ep: 30%-teamwork
+    * Deadline 4 eps: 30%-teamwork
     * Report: 20% teamwork: machine learning
     * Final:  35% writing test in 90m, open book
     * Bonus: 10%
